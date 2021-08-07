@@ -1,4 +1,4 @@
-#EDUCATION REPORT README
+EDUCATION REPORT README
 
 Students, Teachers, and Parents need to be in communication about grades.  Using JavaScript, it is possible to create a portal for up-to-date assignment reports.  By creating this as a web application, these three groups can have a better time engaging in the learning process.
 Teachers should be able to monitor their various classes and assignments.  Students should be able to see their grades as well as upcoming/ungraded assignments.  Parents should be able to see their students’ grades and assignments.
