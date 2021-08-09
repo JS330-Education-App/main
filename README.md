@@ -41,7 +41,7 @@ To update the assignment, the route of
 ```JavaScript
 PUT/assignment/:id
 ```
- is used. Only the **teacher** and **student** can update these assignments.
+ is used. Only the `teacher` and `student` can update these assignments.
 ***
 All assignments must also be displayed for the teacher/student.
 ```JavaScript
