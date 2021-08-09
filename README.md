@@ -9,9 +9,8 @@ To solve this, we will create an MVC style JavaScript Application, using React, 
 MongoDB is both scalable and fast. It stores data as a binary value. Through Node.js, JSON objects are quickly translated to binary data and search for schema-less collections. Mongoose is an Object Relational Mapping layer that helps provide schemas for MongoDB. Here, we will utilize these technologies to create three separate schema objects to be stored in MongoDB collections. User.js, Assignment.js, and AssignmentGrades.js will be the three mongoose schemas to be used as our models.
 ---
 Express.js is a framework that makes it easier to write a web server on Node.js. This is accomplished by defining routes. Express parses the URL, headers, and parameters. The route determines what to do with the received HTTP request matching a specific pattern. For this project we will have three routes: Login.js, Assignment.js, AssignmentGrades.js.
-For Login.js there will be three routes: [Signup](README.md#Signup), Login, and Change Password.
+For Login.js there will be three routes: [Signup](README.md#Signup), [Login](README.md#Login), and Change Password[Change Password](README.md#Change Password).
 ---
-#Signup
 ***
 Signup `POST /login/signup, Login POST /login, and Change Password POST/login/password.` The sign-up page will offer a field for First/Last name, a dropdown for role of teacher, student, or parent, and a specification for what grade level the student. When signing up, all fields will be verified determined by selected role. When logging in, email/password will be verified as well.
 ***
