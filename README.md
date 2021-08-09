@@ -76,7 +76,7 @@ With **_MongoDB_**, we will be utilizing indexes for performance using the `user
 ***
 We built this application based off the idea from Tamara Trefilova. She suggested this idea to showcase our abilities in MongoDB, Mongoose, Express and Node.js from what we have learned in JS330. Kateryna helped provide UI design and an overall framework for us to develop around. Surry provided user stories and outlined the site’s architecture.
 ***
-Copyright (c) 2021 Patrick Gronstal, Tamara Trefilova, Surry Mowery, Kateryna Masiuk
+Copyright :copyright: 2021 Patrick Gronstal, Tamara Trefilova, Surry Mowery, Kateryna Masiuk
 ***
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
