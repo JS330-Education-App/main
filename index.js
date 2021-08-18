@@ -3,9 +3,9 @@ const mongoose = require('mongoose');
 
 const port = process.env.PORT || 5000;
 
-mongoose.connect('mongodb://localhost/JS-330-Education-App', {
-  useNewUrlParser: true, 
-  useCreateIndex: true, 
+mongoose.connect('mongodb://localhost/education-app', {
+  useNewUrlParser: true,
+  useCreateIndex: true,
   useUnifiedTopology: true,
   useFindAndModify: true,
 }).then(() => {
